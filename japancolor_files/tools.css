@@ -12,10 +12,9 @@
 .change a.activate {background: #ffde00;color: #000;box-shadow: 0 3px 8px rgba(255,111,0,.25);}
 .change a:hover{ background:#ffde00; color:#000; text-decoration:none;box-shadow: 0 3px 8px rgba(255,111,0,.25);}
 .jbs1{opacity: 1 !important;transform: translateX(0px) translateY(0px) translateZ(0px) scaleX(1) scaleY(1) scaleZ(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg) !important;}
-h1.t_h1{background: #ffde00;box-shadow: 0 5px 10px rgba(255,111,0,.25);font-weight: bold;font-size: 3.5em;text-align: center;color: #000;letter-spacing: 0.1em;margin-bottom: 0;background: #fff;padding: 22px 0px 12px 0px;
+h1.t_h1{background: #ffde00;font-weight: bold;font-size: 2em;text-align: center;color: #000;letter-spacing: 0.1em;margin-bottom: 0;background: #fff;padding: 22px 0px 12px 0px;
 /*background-image: linear-gradient(to right, #09203f, #537895);
 background-image: -webkit-gradient(linear, left top, right top, from(#09203f), to(#537895));*/
-background-image: -webkit-linear-gradient(left, #0d0015, #0d0015);}
-
+/*background-image: -webkit-linear-gradient(left, #fff, #fff);}*/
 
 h1.t_h1 span{ display:block;letter-spacing: 0em; font-weight: 100;font-size: 0.5em; color:#fff; padding: 10px;}
