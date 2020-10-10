@@ -1,5 +1,5 @@
 .china_div ul{width:20%; float:right; font-size:14px;}
-.china_div ul li{display: block; height:80px; padding:10px; margin:8px 5px; border-radius:12px; }
+.china_div ul li{display: block; height:80px; padding:3px; margin:3px 3px; border-radius:16px; }
 #tester{ padding:20px; margin: 25px 0 0 80px; display:none; position:absolute; font-size:12px;}
 .china_div ul li a span{display: block; font-size:14px; cursor: pointer;}
 .white a{color:#fff !important}
@@ -12,10 +12,10 @@
 .change a.activate {background: #ffde00;color: #000;box-shadow: 0 3px 8px rgba(255,111,0,.25);}
 .change a:hover{ background:#ffde00; color:#000; text-decoration:none;box-shadow: 0 3px 8px rgba(255,111,0,.25);}
 .jbs1{opacity: 1 !important;transform: translateX(0px) translateY(0px) translateZ(0px) scaleX(1) scaleY(1) scaleZ(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg) !important;}
-h1.t_h1{background: #ffde00;box-shadow: 0 5px 10px rgba(255,111,0,.25);font-weight: bold;font-size: 3.5em;text-align: center;color: #fff;letter-spacing: 0.1em;margin-bottom: 0;background: #fff;padding: 22px 0px 12px 0px;
-background-image: linear-gradient(to right, #1d90e1, #ff3153);
-background-image: -webkit-gradient(linear, left top, right top, from(#1d90e1), to(#ff3153));
-background-image: -webkit-linear-gradient(left, #1d90e1, #ff3153);}
+h1.t_h1{background: #ffde00;box-shadow: 0 5px 10px rgba(255,111,0,.25);font-weight: bold;font-size: 3.5em;text-align: center;color: #000;letter-spacing: 0.1em;margin-bottom: 0;background: #fff;padding: 22px 0px 12px 0px;
+/*background-image: linear-gradient(to right, #09203f, #537895);
+background-image: -webkit-gradient(linear, left top, right top, from(#09203f), to(#537895));*/
+background-image: -webkit-linear-gradient(left, #0d0015, #0d0015);}
 
 
 h1.t_h1 span{ display:block;letter-spacing: 0em; font-weight: 100;font-size: 0.5em; color:#fff; padding: 10px;}
