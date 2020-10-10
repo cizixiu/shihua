@@ -1,0 +1,38 @@
+﻿.Validform_wrong
+{
+    color: red;
+    padding-left: 20px;
+    white-space: nowrap;
+    background: url(valid_icons.png) no-repeat -20px -40px;
+}
+
+.ntitle-tit
+{
+    color: #444;
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+
+#postbtn1:hover
+{
+    background: #44d2b0;
+}
+
+#postbtn1, #removebtn
+{
+    background: #6ebd00;
+color: #FFFFFF;
+display: inline-block;
+height: 60px;
+line-height: 60px;
+text-align: center;
+width: 280px;
+float: left;
+cursor: pointer;
+font-family: 微软雅黑;
+font-size: 28px;
+}
+.sjwzDiv .photo-list ul li .img-box{ width:auto;}
+.sjwzDiv .photo-list ul li a{width: 80px; float:left; color:#BDBDBD}
+.sjwzDiv .photo-list ul li a:hover{color:#6ebd00}
+.sjwzDiv #fileQueueArt{ padding-top:5px;}
