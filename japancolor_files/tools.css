@@ -1,5 +1,5 @@
-.china_div ul{width:20%; float:right; font-size:12px;}
-.china_div ul li{display: block; padding:20px; margin:8px 5px; border-radius:6px; }
+.china_div ul{width:20%; float:right; font-size:14px;}
+.china_div ul li{display: block; height:80px; padding:10px; margin:8px 5px; border-radius:12px; }
 #tester{ padding:20px; margin: 25px 0 0 80px; display:none; position:absolute; font-size:12px;}
 .china_div ul li a span{display: block; font-size:14px; cursor: pointer;}
 .white a{color:#fff !important}
